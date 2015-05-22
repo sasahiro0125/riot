@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.7.3",
+    "gulp": "^3.8.11",
+    "gulp-plumber": "^1.0.1",
+    "node-libs-browser": "^0.5.2",
+    "rimraf": "^2.3.4",
+    "webpack": "^1.9.8"
+  }
+}
